@@ -1,20 +1,26 @@
 {
-  "name": "PARAS",
+  "name": "paras",
   "version": "1.0.0",
   "description": "A chat room",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "author": "PARAS",
   "license": "ISC",
- 
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^1.7.4"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paras18k/Chat-Room.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Paras18k/Chat-Room/issues"
+  },
+  "homepage": "https://github.com/Paras18k/Chat-Room#readme"
 }
